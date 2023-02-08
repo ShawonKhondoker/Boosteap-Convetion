@@ -1,0 +1,17 @@
+.pik{
+    width: 100px;
+    height: 100px;
+}
+.d-flex{
+    
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+button{
+    background-color: #f3f3f4;
+    border: none;
+}
+
+  
